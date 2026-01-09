@@ -7,3 +7,14 @@
 插件位置
 <img width="1004" height="286" alt="image" src="https://github.com/user-attachments/assets/366ecdad-3b50-425d-bd99-aa27e9dcfe41" />
 
+
+
+如果 ctrl+ h 打不开面板 请使用
+
+脚本运行 
+PrintChildBones() // GUI only 
+来打开面板
+<img width="675" height="268" alt="image" src="https://github.com/user-attachments/assets/0e5b1e22-610d-482d-bd72-87410f67baf2" />
+
+
+<img width="348" height="112" alt="image" src="https://github.com/user-attachments/assets/9b04c63b-c64e-464e-a0dc-71eed5abe043" />
